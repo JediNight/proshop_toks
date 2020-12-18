@@ -1,0 +1,19 @@
+{
+  "name": "mern_proshop",
+  "version": "1.0.0",
+  "description": "MERN proshop code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "proshop"
+  },
+  "author": "Toks Fawibe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
