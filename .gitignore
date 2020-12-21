@@ -9,6 +9,7 @@ node_modules/
 
 # testing
 /coverage
+http.rest
 
 # production
 /build
