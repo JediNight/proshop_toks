@@ -24,8 +24,6 @@ const getProductbyId = asyncHandler(async (req, res) => {
     res.status(404);
     throw new Error("Product Not Found");
   }
-
-  res.json(products);
 });
 
 export { getProducts, getProductbyId };
